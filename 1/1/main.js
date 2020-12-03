@@ -1,5 +1,3 @@
-const { exit } = require('process');
-
 var array = require('fs').readFileSync('../input.txt').toString().split("\n").map(Number);
 
 for (i in array)
