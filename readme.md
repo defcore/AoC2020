@@ -1,6 +1,6 @@
 # AoC 2020
 
-# 1 - NodeJS
+# 1 - JavaScript (NodeJS)
 
 `node main.js`
 
@@ -12,3 +12,6 @@
 
 `python main1.py`
 
+# 4 - C#
+
+# 5 - Java
